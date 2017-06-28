@@ -1,8 +1,8 @@
 # wm_vue
 
-> A Vue.js project
-
 ## Build Setup
+
+> 预览方法:
 
 ``` bash
 # install dependencies
@@ -18,4 +18,13 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+![QQ截图20170628152556.png](.\QQ截图20170628152556.png)
+
+![QQ截图20170628152613.png](.\QQ截图20170628152613.png)
+
+![QQ截图20170628152648.png](.\QQ截图20170628152648.png)
+
+**有时候商家详情页数量增加按钮没有反应,是因为库存不足,暂时还没做提示框,之后有时间再补.做这个项目主要是熟悉下vue的用法**
