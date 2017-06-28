@@ -1,0 +1,6 @@
+export const  INIT= 'INIT'
+export const  ADD= 'ADD'
+export const  REDUCE= 'REDUCE'
+export const  CLEAR= 'CLEAR'
+export const  TOTALNUM= 'TOTALNUM'
+export const  TEST_TEST= 'TEST_TEST'
